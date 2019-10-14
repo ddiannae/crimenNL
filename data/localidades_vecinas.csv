@@ -1,0 +1,207 @@
+source,target
+Atongo de Abajo (Atongo Allende),Atongo de Abajo
+Bosques de San Pedro,Jardines de la Silla (Jardines)
+Jardines de la Silla (Jardines),Bosques de San Pedro
+Jardines de la Silla (Jardines),Montebello
+Jardines de la Silla (Jardines),Ciudad Benito Juárez
+Jardines de la Silla (Jardines),Valle de Juárez
+Jardines de la Silla (Jardines),Monte Kristal
+Jardines de la Silla (Jardines),La Maestranza
+Jardines de la Silla (Jardines),Guadalupe
+San José,Ismael Flores
+San José,Valle de Lincoln
+Cantera Chica (Cantera los Sauces),La Almira
+Loma Prieta,Ciudad de Allende
+Las Brisas,La Corona [Hacienda]
+Prados de Santa Rosa,Ex-Hacienda Santa Rosa
+Fraccionamiento Misión de San Javier,Ciudad Apodaca
+Villas del Arco,Simeprodeso (Colectivo Nuevo)
+Simeprodeso (Colectivo Nuevo),Villas del Arco
+Simeprodeso (Colectivo Nuevo),Ciudad General Escobedo
+Campestre Huinalá,Ciudad Apodaca
+Santa Rosa,Ex-Hacienda Santa Rosa
+La Aldea,Aramberri
+Atongo de Abajo,Atongo de Abajo (Atongo Allende)
+Ciénega de Flores,Emiliano Zapata
+San Cristóbal (La Ventura),Valle de Lincoln
+Unión Agropecuarios Lázaro Cárdenas del Norte,Ciudad General Escobedo
+Santa Rita,Ciudad General Terán
+Montebello,Jardines de la Silla (Jardines)
+Montebello,Arboledas de San Roque
+Montebello,Monte Kristal
+Héctor Caballero,Ciudad Benito Juárez
+Colinas del Río,Ciudad Benito Juárez
+Arboledas de San Roque,Montebello
+Valle de Vaquerías,Ciudad Benito Juárez
+Valle de Vaquerías,Centro Habitacional Burócratas de Guadalupe
+Los Villarreales,Los Morales
+Ciudad Santa Catarina,San Pedro Garza García
+Ciudad Apodaca,Fraccionamiento Misión de San Javier
+Ciudad Apodaca,Campestre Huinalá
+Ciudad Apodaca,Ciudad General Escobedo
+Ciudad Apodaca,San Nicolás de los Garza
+Ciudad Apodaca,Guadalupe
+Monterrey,Santiago
+Monterrey,Mitras Poniente
+Monterrey,San Pedro Garza García
+Monterrey,Ciudad General Escobedo
+Monterrey,San Nicolás de los Garza
+Monterrey,Guadalupe
+Santiago,Monterrey
+Santiago,Los Terreros
+Santiago,La Cieneguilla
+Santa Efigenia,La Chueca
+Los Guajes,Hacienda del Cielo
+Los Guajes,San Rafael
+La Chueca (El Faisán),Privadas del Refugio
+La Chueca (El Faisán),El Salitrillo
+Privadas del Refugio,La Chueca (El Faisán)
+El Salitrillo,La Chueca (El Faisán)
+Campestre los Altos,Cieneguita del Río
+La Agüita,Coloradas
+Coloradas,La Agüita
+Dieciocho de Marzo,San Francisco de los Blancos
+Dieciocho de Marzo,El Cedral
+La Corona [Hacienda],Las Brisas
+Fresnillo,Los Rehiletes
+Fresnillo,San Roque
+Los Morales,Los Villarreales
+Nuevo Mamulique,Colonia Ejidal Mamulique
+Ciudad Satélite del Norte,Emiliano Zapata
+Emiliano Zapata,Ciudad Satélite del Norte
+Abasolo,Alberto Villarreal
+Aldama [Estación],Francisco I. Madero
+Ciudad de Allende,Loma Prieta
+Los Guzmán,Colinas del Vergel
+Lazarillos de Abajo,Lazarillos de Arriba
+Lazarillos de Arriba,Lazarillos de Abajo
+Paso Hondo,Jáuregui
+Los Sabinos (Sabinos de Abajo),Los Sabinos de Arriba
+Jáuregui,Paso Hondo
+Los Sabinos de Arriba,Los Sabinos (Sabinos de Abajo)
+Anáhuac,Lázaro Cárdenas
+Lázaro Cárdenas,Anáhuac
+Ex-Hacienda Santa Rosa,Prados de Santa Rosa
+Ex-Hacienda Santa Rosa,Santa Rosa
+Aramberri,La Aldea
+Aramberri,La Florida
+La Florida,Aramberri
+El Barco,Valle Hidalgo (El Quemado)
+El Barranquito,San Isidro
+Cieneguita del Río,Campestre los Altos
+La Chueca,Santa Efigenia
+General Treviño (Escondida),Santa Fe
+El Nogal,La Unión
+Palmitos,La Esperanza
+El Refugio (El Nopalito),Fraccionamiento Campestre la Colmena
+San Isidro,El Barranquito
+Santa Fe,General Treviño (Escondida)
+Valle Hidalgo (El Quemado),El Barco
+Hacienda del Cielo,Los Guajes
+La Esperanza,Palmitos
+Fraccionamiento Campestre la Colmena,El Refugio (El Nopalito)
+Emiliano Zapata,Ciénega de Flores
+Francisco I. Madero,Doctor Ignacio Morones Prieto
+Doctor Ignacio Morones Prieto,Francisco I. Madero
+Francisco I. Madero,Aldama [Estación]
+Galeana,Santa Rita (Santa Rita de Cordeladas)
+San Francisco de los Blancos,Dieciocho de Marzo
+Santa Rita (Santa Rita de Cordeladas),Galeana
+Parque Industrial Ciudad Mitras,Mitras Poniente
+Parque Industrial Ciudad Mitras,Ciudad General Escobedo
+Virginia Robles (Santa Clara),El Porvenir (Extensión Cerritos)
+Mitras Poniente,Monterrey
+Mitras Poniente,Parque Industrial Ciudad Mitras
+Mitras Poniente,Ciudad General Escobedo
+San Pedro Garza García,Ciudad Santa Catarina
+San Pedro Garza García,Monterrey
+Ciudad General Escobedo,Simeprodeso (Colectivo Nuevo)
+Ciudad General Escobedo,Unión Agropecuarios Lázaro Cárdenas del Norte
+Ciudad General Escobedo,Ciudad Apodaca
+Ciudad General Escobedo,Monterrey
+Ciudad General Escobedo,Parque Industrial Ciudad Mitras
+Ciudad General Escobedo,Mitras Poniente
+Ciudad General Escobedo,San Nicolás de los Garza
+Ciudad General Terán,Santa Rita
+Ciudad General Terán,Bicentenario
+Ampliación de la Laguna,California
+California,Ampliación de la Laguna
+Brisas del Pedregal,Bicentenario
+Bicentenario,Ciudad General Terán
+Bicentenario,Brisas del Pedregal
+Ciudad Benito Juárez,Jardines de la Silla (Jardines)
+Ciudad Benito Juárez,Héctor Caballero
+Ciudad Benito Juárez,Colinas del Río
+Ciudad Benito Juárez,Valle de Vaquerías
+Ciudad Benito Juárez,Centro Habitacional Burócratas de Guadalupe
+Ciudad Benito Juárez,San Antonio
+Ciudad Benito Juárez,Los Huertos
+Ciudad Benito Juárez,Valle de Juárez
+Ciudad Benito Juárez,Mirador de la Montaña
+Ciudad Benito Juárez,Anzures
+Ciudad Benito Juárez,Guadalupe
+Centro Habitacional Burócratas de Guadalupe,Valle de Vaquerías
+Centro Habitacional Burócratas de Guadalupe,Ciudad Benito Juárez
+Centro Habitacional Burócratas de Guadalupe,Valle de Juárez
+Centro Habitacional Burócratas de Guadalupe,Monte Kristal
+San Antonio,Ciudad Benito Juárez
+San Antonio,Doce de Octubre
+Los Huertos,Ciudad Benito Juárez
+Valle de Juárez,Jardines de la Silla (Jardines)
+Valle de Juárez,Ciudad Benito Juárez
+Valle de Juárez,Centro Habitacional Burócratas de Guadalupe
+Valle de Juárez,Esmeralda Sur
+Monte Kristal,Jardines de la Silla (Jardines)
+Monte Kristal,Montebello
+Monte Kristal,Centro Habitacional Burócratas de Guadalupe
+La Maestranza,Jardines de la Silla (Jardines)
+La Maestranza,Los Rehiletes
+Dieciséis de Septiembre,San Roque
+Mirador de la Montaña,Ciudad Benito Juárez
+Anzures,Ciudad Benito Juárez
+Los Rehiletes,Fresnillo
+Los Rehiletes,La Maestranza
+Los Álamos,El Mosquito
+La Escondida (El Ranchito),El Refugio (Veredas)
+El Mosquito,Los Álamos
+El Refugio (Veredas),La Escondida (El Ranchito)
+Dolores,San Rafael de los Martínez
+San Rafael de los Martínez,Dolores
+La Almira,Cantera Chica (Cantera los Sauces)
+Las Arboledas,Monte Sur
+Monte Sur,Las Arboledas
+Monte Sur,Privanzas
+Francisco Villa,El Sabinal (HJ)
+El Sabinal (HJ),Francisco Villa
+Los Girasoles,Real de Loreto
+San Nicolás de los Garza,Ciudad Apodaca
+San Nicolás de los Garza,Monterrey
+San Nicolás de los Garza,Ciudad General Escobedo
+San Nicolás de los Garza,Guadalupe
+Los Terreros,Santiago
+La Cieneguilla,Santiago
+Guadalupe,Jardines de la Silla (Jardines)
+Guadalupe,Ciudad Apodaca
+Guadalupe,Monterrey
+Guadalupe,Ciudad Benito Juárez
+Guadalupe,San Nicolás de los Garza
+Alberto Villarreal,Abasolo
+Colinas del Vergel,Los Guzmán
+San Rafael,Los Guajes
+La Unión,El Nogal
+Emiliano Zapata,Alianza Real
+Alianza Real,Emiliano Zapata
+El Cedral,Dieciocho de Marzo
+Lomas de García,Valle de Lincoln
+Valle de Lincoln,San José
+Valle de Lincoln,San Cristóbal (La Ventura)
+Valle de Lincoln,Lomas de García
+Doce de Octubre,San Antonio
+San Roque,Fresnillo
+San Roque,Dieciséis de Septiembre
+Ismael Flores,San José
+Esmeralda Sur,Valle de Juárez
+Privanzas,Monte Sur
+Real de Loreto,Los Girasoles
+Colonia Ejidal Mamulique,Nuevo Mamulique
+El Porvenir (Extensión Cerritos),Virginia Robles (Santa Clara)
