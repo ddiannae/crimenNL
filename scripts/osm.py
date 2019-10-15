@@ -66,7 +66,7 @@ if __name__ == '__main__':
     cols = ["type", "id", "lon", "lat", "version", "visible", "tag_key",
             "tag_value"]
     df = pd.DataFrame(amenities.node_tags, columns=cols)
-    print(f"Number of nodes: {amenities.count}")
+    rint(f"Number of nodes: {amenities.count}")
     print(f"Number of nodes in DF: {df.shape}")
     print(df.head())
     df.to_csv("/Users/rdora/Downloads/osm_nodes.csv", index=False)
