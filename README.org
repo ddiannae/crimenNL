@@ -1,0 +1,10 @@
+#+title: Eight years of crime evolution in the city of Monterrey under a network approach
+* Overview
+	This repository is composed mainly of four directories.
+	1. =data=
+	2. =osm=
+	3. =notebooks=
+	4. =shape=
+		 
+The directory containing the tables are found in =data=, the directory containing the data from Open
+street map is =osm=, the jupyter notebooks are in =notebooks= and the shape files in =shape=.
