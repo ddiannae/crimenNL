@@ -1,0 +1,34 @@
+#+TITLE: Eight years of crime evolution in the city of Monterrey under a network approach
+#+AUTHOR: Rodrigo Dorantes-Gilardi, Hiram Hernández-Ramos, Jesús Espinal-Enríquez
+#+OPTIONS: toc:nil num:nil date:nil
+* Abstract
+
+Crime is without doubt one of Mexico's most important social problems, with data showing that
+crime-related violence has been in constant rise at least for the last decade. While essentially the
+whole country suffers the consequences of this scourge, some places have become focal points of
+gang-related violence. Human, social and economic losses in these regions are unfathomable, one of
+the most emblematic of these places being the city of Monterrey, a central scenario in the
+narco-war. Being the third largest metropolitan area in Mexico and a business hub, Monterrey has counted
+hundreds to thousands of casualties and seen even more people migrate to safer places.
+
+Here, we propose a network-theory approach to understand the mechanisms by which the violence has
+evolved and moved through the city. For this purpose, we count with a database that contains the
+coordinates, date, and the number of casualties for each crime committed between January 2011 and
+February 2018 in the Monterrey metropolitan area. First, we create networks where nodes correspond
+to area-delimited blocks in the city, and links are constructed using one of three different
+approaches:
+
+ 1) According to node proximity to a focal crime-area,
+ 2) by using single-feature correlation, and
+ 3) by linking similar-environment nodes (by type of land, e.g. residential, industrial or
+    commercial; and by number of shared urban objects like high-way, street, parks, etc.).
+
+Next, we construct cells of violence (using Voronoi diagrams) to try to determine the effect of
+the local landscape (security-force stations, business districts, residential areas) on crime.
+Finally, we use these networks to identify:
+
+ * The most dangerous zones per unit of time (weekly, monthly, yearly, and overall) and,
+ * the most influential nodes in the network, which could indicate disputed territories or
+   gang-related boundaries, and help implementing policies to retain the spread of violence.
+ * The distinct urban environmental categories crime in the city develops upon and its relation with
+   the type of crime (gang-related or otherwise).
