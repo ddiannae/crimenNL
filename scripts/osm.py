@@ -59,6 +59,20 @@ class OSMWayHandler(om.SimpleHandler):
         self.tag_inventory_way(w, "way")
 
 
+class OSMRelationHandler(om.SimpleHandler):
+    """Get relations"""
+
+    def __init__(self):
+        super().__init__()
+        self.node_tags = []
+        self.count = 0
+
+    def tag_inventory_relation(self, data, data_type):
+        base_list = [data_type]
+
+    pass
+
+
 if __name__ == '__main__':
     path_to_file = '/Users/rdora/Downloads/osm/monterrey.osm'
     amenities = OSMHandler()
