@@ -1,0 +1,13 @@
+#+title: Open street map
+#+author: Rodrigo Dorantes-Gilardi
+#+options: toc:nil date:nil
+* Introduction
+In order to relate the urban environment of Monterrey to its crime, we used the data of Open street
+map (OSM). The data model of OSM consists of three elements: nodes, ways, and relations; where nodes
+are geographical points in the map representing an urban item (e.g. a bench, or a bar), ways are
+sets of nodes defining the shape of an item (e.g. a river, or a road), and relations are sets of
+ways, nodes and other relations, defining urban compounds like a university campus or a park.
+
+We filtered the database in order to consider only the roads and amenities of the city, that is 
+nodes belonging to any kind of rode from highway to walking path, and nodes belonging to
+any private or public establishments.
