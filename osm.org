@@ -11,3 +11,4 @@ ways, nodes and other relations, defining urban compounds like a university camp
 We filtered the database in order to consider only the roads and amenities of the city, that is 
 nodes belonging to any kind of rode from highway to walking path, and nodes belonging to
 any private or public establishments.
+
