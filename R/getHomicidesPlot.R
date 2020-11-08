@@ -84,7 +84,7 @@ p <- ggplot(homicides, aes(x = fecha, y = cassualties, color = place)) +
  # facet_wrap(~place, ncol = 1) +
   theme(legend.title = element_blank(),
         axis.title.y =  element_text(size = 15),
-        legend.spacing.y = unit(1, "cm")) +
+        legend.key.size = unit(0.8, "cm")) +
   scale_color_brewer(palette="Dark2", labels = c("Chihuahua", "Mexico", "MMA", "Nuevo León", "Yucatán"))
 
 png(paste0("../figures/plot_homicides.png"), width = 1000, height = 300)
