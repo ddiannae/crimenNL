@@ -1,4 +1,9 @@
 #+title: Eight years of crime evolution in the city of Monterrey under a network approach
+
+Scripts developed for the analysis described in: 
+
+Dorantes-Gilardi, R., García-Cortés, D., Hernández-Ramos, H. et al. Eight years of homicide evolution in Monterrey, Mexico: a network approach. Sci Rep 10, 21564 (2020). https://doi.org/10.1038/s41598-020-78352-9
+
 * Overview
 	This repository is composed mainly of four directories.
 	1. =data=
